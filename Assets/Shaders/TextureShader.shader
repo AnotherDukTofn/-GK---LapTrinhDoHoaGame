@@ -9,6 +9,7 @@ Shader "Custom/HeightTexture"
         _RockTex("Rock Texture", 2D) = "white"{}
         _SnowTex("Snow Texture", 2D) = "white"{}
 
+        // Các biến mới để tùy chỉnh Bounds và độ hòa trộn
         _RockStart("Rock Start Height", Range(0, 1)) = 0.3
         _SnowStart("Snow Start Height", Range(0, 1)) = 0.7
         _BlendSharpness("Blend Sharpness", Range(1, 20)) = 5.0
@@ -48,6 +49,7 @@ Shader "Custom/HeightTexture"
             sampler2D _SnowTex;     float4 _SnowTex_ST;
             float _Height;
 
+            // Khai báo các biến tương ứng với Properties
             float _RockStart;
             float _SnowStart;
             float _BlendSharpness;
