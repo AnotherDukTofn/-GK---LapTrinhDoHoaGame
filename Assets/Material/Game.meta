@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Material/Game.meta
 guid: 171d4261d0ee0a045a2e34ffc956ba4e
+========
+guid: 3e06809bc35cfff40acf7e4f9b0e5871
+>>>>>>>> origin/Kurado:Assets/Models.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
