@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 513259455435234220}
   - component: {fileID: 8612119699345238926}
   - component: {fileID: 3370986527428875948}
+  - component: {fileID: 7354863106954071088}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Projectile
@@ -28,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7500519967180094323}
@@ -48,9 +49,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 3370986527428875948}
   direction: {x: 0.9931178, y: 0, z: 0.11711942}
-  speed: 20
+  speed: 30
   distance: 20
   origin: {x: 0, y: 0, z: 0}
+  damage: 10
 --- !u!54 &3370986527428875948
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -78,6 +80,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!135 &7354863106954071088
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2010367959467023598}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &4215267911591526031
 GameObject:
   m_ObjectHideFlags: 0

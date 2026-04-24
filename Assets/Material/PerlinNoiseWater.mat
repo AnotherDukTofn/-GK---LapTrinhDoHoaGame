@@ -65,7 +65,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amplitude: 2
+    - _Amplitude: 3
     - _BorderWidth: 0.1
     - _BottomScaleMax: 2
     - _BumpScale: 1
@@ -81,11 +81,11 @@ Material:
     - _Parallax: 0.02
     - _PyramidHeight: 0
     - _RotationSpeed: 2
-    - _Scale: 3
+    - _Scale: 2
     - _ScaleSpeed: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 0.75
+    - _Speed: 0.25
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
