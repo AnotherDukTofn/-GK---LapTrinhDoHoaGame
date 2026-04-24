@@ -19,7 +19,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _Amplitude
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -65,7 +65,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amplitude: 2
+    - _Amplitude: -3
     - _BorderWidth: 0.1
     - _BottomScaleMax: 2
     - _BumpScale: 1
@@ -81,11 +81,11 @@ Material:
     - _Parallax: 0.02
     - _PyramidHeight: 0
     - _RotationSpeed: 2
-    - _Scale: 3
+    - _Scale: 5
     - _ScaleSpeed: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 0.75
+    - _Speed: 2
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -94,6 +94,6 @@ Material:
     - _BorderColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EndColor: {r: 0, g: 1, b: 0.86829185, a: 0}
-    - _StartColor: {r: 0, g: 0.5263312, b: 1, a: 0}
+    - _EndColor: {r: 0.08235294, g: 0.49664125, b: 0.7529412, a: 0.75686276}
+    - _StartColor: {r: 0.25882348, g: 0.75791997, b: 0.9607843, a: 0.74509805}
   m_BuildTextureStacks: []
