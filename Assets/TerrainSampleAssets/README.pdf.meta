@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TerrainSampleAssets/README.pdf.meta
 guid: 19f8f1dbc6e0e2a45aa2e518452ffa62
 DefaultImporter:
+========
+guid: 9e21d92ee6b149e4880c5022d3a0d2a4
+NativeFormatImporter:
+>>>>>>>> 0e9fb4d1ab37d2559577558d57da0f5e54510f3f:Assets/Material/Foam.mat.meta
   externalObjects: {}
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
