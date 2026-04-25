@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/MaiUyen.unity.meta
+guid: 4353862858fe4594ba42f8971045f26b
+========
 guid: c958ec7cdd8b75d48862c3df029c7ab6
 folderAsset: yes
+>>>>>>>> 0e9fb4d1ab37d2559577558d57da0f5e54510f3f:Assets/Scripts.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

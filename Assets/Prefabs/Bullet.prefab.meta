@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/LowPolyFantasyVillage/Scenes/MaiUynnn.unity.meta
+guid: 145a61677766f03438536fd13d87fee3
+DefaultImporter:
+========
 guid: 2e8bda0d2ba67144cb935cc20bc5b1ca
 PrefabImporter:
+>>>>>>>> 0e9fb4d1ab37d2559577558d57da0f5e54510f3f:Assets/Prefabs/Bullet.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
