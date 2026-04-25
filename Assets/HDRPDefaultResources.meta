@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/HDRPDefaultResources.meta
 guid: 10043f369b8996a4fae4bbecbccd370c
 folderAsset: yes
+========
+guid: 8ce488d9182e58641a583ca35acaa9f8
+>>>>>>>> origin/Dolphin:Assets/Scenes/Trang.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

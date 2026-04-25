@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/MaiUyen.meta
 guid: a420a1ead9d5e2f4cb2d4b4b5cc50566
 folderAsset: yes
+========
+guid: 6b9721b9f445ab243806f3c505876485
+>>>>>>>> origin/Dolphin:Assets/Scenes/dolphin.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
