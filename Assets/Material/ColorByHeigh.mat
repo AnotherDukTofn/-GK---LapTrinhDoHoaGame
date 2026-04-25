@@ -44,11 +44,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HighTex:
-        m_Texture: {fileID: 2800000, guid: 1c0f2dfb16ba48d40a18bfe21cfeb61f, type: 3}
+        m_Texture: {fileID: 2800000, guid: ffa01093856b873448237de84289ee85, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LowTex:
-        m_Texture: {fileID: 2800000, guid: 94712c6edc9e2de49827ed3d7c34ba2e, type: 3}
+        m_Texture: {fileID: 2800000, guid: f87d6620ec5f29a429bf2ab859db0bea, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MidTex:
-        m_Texture: {fileID: 2800000, guid: c60fa16e6006af1409284d87b01dd173, type: 3}
+        m_Texture: {fileID: 2800000, guid: c9b07ce3139615d478724349edfac1a8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -73,7 +73,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlendSharpness: 0.43
+    - _BlendSharpness: 0.009
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -81,9 +81,9 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HighStart: 3.19
+    - _HighStart: 4.8
     - _Metallic: 0
-    - _MidStart: -0.03
+    - _MidStart: -11.96
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
